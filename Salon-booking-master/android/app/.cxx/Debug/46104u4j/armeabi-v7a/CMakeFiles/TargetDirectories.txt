@@ -1,0 +1,2 @@
+D:/Salon-booking-master/android/app/.cxx/Debug/46104u4j/armeabi-v7a/CMakeFiles/edit_cache.dir
+D:/Salon-booking-master/android/app/.cxx/Debug/46104u4j/armeabi-v7a/CMakeFiles/rebuild_cache.dir

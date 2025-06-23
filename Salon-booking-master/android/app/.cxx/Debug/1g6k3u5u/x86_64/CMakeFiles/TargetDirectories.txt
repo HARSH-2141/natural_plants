@@ -1,0 +1,2 @@
+C:/Users/LEGION/Downloads/BE_SalonAPP/BE_SalonAPP/Salon-booking-master/android/app/.cxx/Debug/1g6k3u5u/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/LEGION/Downloads/BE_SalonAPP/BE_SalonAPP/Salon-booking-master/android/app/.cxx/Debug/1g6k3u5u/x86_64/CMakeFiles/rebuild_cache.dir
